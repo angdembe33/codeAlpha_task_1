@@ -5,4 +5,8 @@ The main feature of this app is to
 Add Tasks: Easily add new tasks to your to-do list with a simple input form.
 Edit Tasks: Modify the details of your tasks to keep them up to date.
 Delete Tasks: Remove tasks that are no longer needed with a single click.
+Technologies Used
+HTML: Provides the basic structure of the app.
+CSS: Adds styling to the app, creating an attractive and intuitive user interface.
+JavaScript: Implements the functionality, allowing for dynamic interaction with the tasks.
 
